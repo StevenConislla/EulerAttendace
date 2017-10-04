@@ -1,0 +1,7 @@
+#Sun Aug 13 11:53:59 COT 2017
+base.0=C\:\\Users\\OSKAR\\Desktop\\Android\\EulerAttendance\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f5fea61c69eb9b8dae2220a1c58f2ffb95e9f99c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\OSKAR\\Desktop\\Android\\EulerAttendance\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2d44f250857f98aa2d05882bb339bc60c3643494\\classes.dex
+base.1=C\:\\Users\\OSKAR\\Desktop\\Android\\EulerAttendance\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2d44f250857f98aa2d05882bb339bc60c3643494
+file.0=C\:\\Users\\OSKAR\\Desktop\\Android\\EulerAttendance\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f5fea61c69eb9b8dae2220a1c58f2ffb95e9f99c\\classes.dex

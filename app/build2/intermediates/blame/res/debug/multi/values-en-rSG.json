@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\OSKAR\\Desktop\\Android\\EulerAttendance\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\OSKAR\\.android\\build-cache\\75ad049a5d4259547e5fca9f8a0ca30c72ce4de0\\output\\res\\values-en-rSG\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 244,
+                        "endColumn": 99,
+                        "endOffset": 343
+                    }
+                }
+            }
+        ]
+    }
+]

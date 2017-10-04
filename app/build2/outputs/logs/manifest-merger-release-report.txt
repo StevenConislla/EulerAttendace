@@ -1,0 +1,548 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:4:5-78
+	android:name
+		ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:4:22-75
+application
+ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:6:5-29:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\b3b9c1f85419ead6c8d9980831a2b51c90bf92d5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\347f3190e442b75098c9a51f9abd00be665dc838\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\OSKAR\.android\build-cache\a492fa29352f53173d691f3843647106a2dce0d0\output\AndroidManifest.xml:9:5-20
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:45:5-53:19
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\d1d868c7b45964e56335e4f04b7ab24f9114989e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\OSKAR\.android\build-cache\c1553f06173ad81a21477ae37b328a6af9b76043\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\OSKAR\.android\build-cache\e6dbe8fbc3f4d8e86c1f264018012cdad0fbf551\output\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\cdbc956fce2153988eddebd71bcd1143c4df887e\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\OSKAR\.android\build-cache\b322fc2674098a9277849683d047a991088ca6d5\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\OSKAR\.android\build-cache\e8747c95b20c557dcd180c82c5d6cf44a08a110e\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\OSKAR\.android\build-cache\94e1e86018497abd3b44657b82b05ca74c9c85fd\output\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\OSKAR\.android\build-cache\7e277e5a5c5962bb2a5eb292a78d7f7e7ec8f44f\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\OSKAR\.android\build-cache\397a8f7127dc0eab4c87b312c45ea627d521a1b7\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\82e573c9d702df81112240345776b63437fe7d3e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\264133f174eeabcf4b279af35c8d1ce2bc3ef0e1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\b79c4e1497c2f48068be9179c790c7b0b523fe65\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\OSKAR\.android\build-cache\21ff71111836e27c2e1eda25977e70546a9068e8\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\OSKAR\.android\build-cache\951d4fc8a3cc9cb8ef92851b21309f67e22c21bc\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\OSKAR\.android\build-cache\9a64cd24f2efdfa0cb594d9b0ef7885bdfbc3f8a\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] C:\Users\OSKAR\.android\build-cache\678bbaa8ac0293684ee1bf00b0642d4d2c0e6eee\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\OSKAR\.android\build-cache\f3f17deffd9850ad24bac1b6603b36635c3d0d22\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\OSKAR\.android\build-cache\8acce0f56b6aeb04563c26e1cd4901ea591dcf8b\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] C:\Users\OSKAR\.android\build-cache\2d0c7b3b06e0945c1f2fd938b94d70e4e7551d0d\output\AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\OSKAR\.android\build-cache\aab4cdf318102d3c43a9fcb29e323bd0ea8ccef8\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] C:\Users\OSKAR\.android\build-cache\8613c4bc84ac39b77173726f98c361416a903a50\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.4] C:\Users\OSKAR\.android\build-cache\b91c37574c6809e0f27f54e95bb98d74506c899c\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] C:\Users\OSKAR\.android\build-cache\2e5bb52aa1471325369e1ebfb38c8bfbc74dbae0\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\OSKAR\.android\build-cache\79d495cec6561fae2b38cd796b5fd9ce2ba3d41e\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\OSKAR\.android\build-cache\15bda9e130461d416ced48ad23b2c307c58e0209\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] C:\Users\OSKAR\.android\build-cache\0c3712924ad3206731405422112175a9ac8dc053\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\962f6c7007d3e45ccc5a4dcda81a7aef1ab59f0c\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\OSKAR\.android\build-cache\7461d2e75509e828497fb39811e3af12176685a1\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\OSKAR\.android\build-cache\69bfded58c0ec9dd9cc760635d2ad93184e603b6\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] C:\Users\OSKAR\.android\build-cache\6439cfdd93d19ba58fd2b6604ac541ad1d635c1f\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\OSKAR\.android\build-cache\aa5dd397e2dca585415272b4816864b13086f129\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] C:\Users\OSKAR\.android\build-cache\cb2e982c71088c6267412119a31a6949a46f5bef\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\OSKAR\.android\build-cache\65a4c0d842c0ccc17b02d8285ced9bf82f5f18d8\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\OSKAR\.android\build-cache\8a475e4422a3401f8a648f08ebddab2494ecabc2\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\OSKAR\.android\build-cache\4e80685ec6939a6f092bd28fc6ad8b9e123e620a\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\OSKAR\.android\build-cache\cf5e79c1246a74fe4e7a4fd4bd8f2b871d88816e\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\OSKAR\.android\build-cache\7186c51d4d7c2baedc539ac8b0181f506ed6dafd\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\OSKAR\.android\build-cache\2057544aecceba659d420663bc8365aebcd6e238\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\OSKAR\.android\build-cache\fc707d087ac658395ebb2ba5f25cc0b07a0047c5\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\OSKAR\.android\build-cache\5fa62b9c8d67324cfc20177b3beaa6309a7ef1a8\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\OSKAR\.android\build-cache\63eb7c948959a0dc4c4b938992b5622ca19b5c3b\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\OSKAR\.android\build-cache\aa08695389dbdae2aee2e1a7388e702cb34e3b6d\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\OSKAR\.android\build-cache\55af474bb31271051fb9d0b6a43260d7b9e05021\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\OSKAR\.android\build-cache\ca282c969b83fe33ee093faa9bf14e7573d2b8e0\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\OSKAR\.android\build-cache\674638016fd96cc7942cbee0fb407c74f7f593fc\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\OSKAR\.android\build-cache\95423275bfcf096d9df392c55bf536fa8f787355\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\f05b233bca612bb5796e0769af663e54e6cc994c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\8ac512005f5cb62cd2f932b10b8f4aa26bce7c1e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\a89d801b63e1a965542d7fe417cde35825561bac\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\853726937a9091559ada441d9bfc2b148986848d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\217f8fbf4baa76e8bcf49f653fd6e513dadecaf7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\eddf0953d8e873cb5df3ee84e1a16b874d8edd23\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:9:9-40
+	android:theme
+		ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:13:9-40
+	android:name
+		ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:7:9-38
+activity#com.plug.eulerattendance.MainActivity
+ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:14:9-23:20
+	android:label
+		ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:16:13-45
+	android:theme
+		ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.plug.eulerattendance.IniciarActivity
+ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:24:9-53
+	android:name
+		ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:24:19-50
+activity#com.plug.eulerattendance.EntradaActivity
+ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:25:9-53
+	android:name
+		ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:25:19-50
+activity#com.plug.eulerattendance.SalidaActivity
+ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:26:9-52
+	android:name
+		ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:26:19-49
+activity#com.plug.eulerattendance.ListaActivity
+ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:27:9-51
+	android:name
+		ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:27:19-48
+activity#com.plug.eulerattendance.Lista2Activity
+ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:28:9-61
+	android:name
+		ADDED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml:28:19-49
+uses-sdk
+INJECTED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [io.realm:realm-android-library:3.5.0] C:\Users\OSKAR\.android\build-cache\e87b478f7cb1f6ffafe81bdad40d861621ab4615\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] C:\Users\OSKAR\.android\build-cache\1b36262e84edacec20ec55b9c08336a3351ee7d8\output\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\b3b9c1f85419ead6c8d9980831a2b51c90bf92d5\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\347f3190e442b75098c9a51f9abd00be665dc838\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\OSKAR\.android\build-cache\a492fa29352f53173d691f3843647106a2dce0d0\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.7.0] C:\Users\OSKAR\.android\build-cache\ced18d51a60ba1177c45fa5beb6ee04fb6f70f1d\output\AndroidManifest.xml:5:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\efc3b210bad52ff6d608d0a9fdf1c0f2237bcd36\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\d1d868c7b45964e56335e4f04b7ab24f9114989e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\OSKAR\.android\build-cache\c1553f06173ad81a21477ae37b328a6af9b76043\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] C:\Users\OSKAR\.android\build-cache\c0d03a45dfa86ab66ad987b0d35a98ab04726ec2\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\OSKAR\.android\build-cache\e6dbe8fbc3f4d8e86c1f264018012cdad0fbf551\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\cdbc956fce2153988eddebd71bcd1143c4df887e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\OSKAR\.android\build-cache\b322fc2674098a9277849683d047a991088ca6d5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] C:\Users\OSKAR\.android\build-cache\8bebc3f33a688819d5afd3586ba85a6b14b01332\output\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\OSKAR\.android\build-cache\e8747c95b20c557dcd180c82c5d6cf44a08a110e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] C:\Users\OSKAR\.android\build-cache\3532a58007fab2fcdf7fa0949c0b68b36b3b18fd\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\OSKAR\.android\build-cache\94e1e86018497abd3b44657b82b05ca74c9c85fd\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\OSKAR\.android\build-cache\7e277e5a5c5962bb2a5eb292a78d7f7e7ec8f44f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\OSKAR\.android\build-cache\397a8f7127dc0eab4c87b312c45ea627d521a1b7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\82e573c9d702df81112240345776b63437fe7d3e\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\264133f174eeabcf4b279af35c8d1ce2bc3ef0e1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\b79c4e1497c2f48068be9179c790c7b0b523fe65\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\OSKAR\.android\build-cache\21ff71111836e27c2e1eda25977e70546a9068e8\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\OSKAR\.android\build-cache\951d4fc8a3cc9cb8ef92851b21309f67e22c21bc\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\OSKAR\.android\build-cache\9a64cd24f2efdfa0cb594d9b0ef7885bdfbc3f8a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] C:\Users\OSKAR\.android\build-cache\678bbaa8ac0293684ee1bf00b0642d4d2c0e6eee\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\OSKAR\.android\build-cache\f3f17deffd9850ad24bac1b6603b36635c3d0d22\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\OSKAR\.android\build-cache\8acce0f56b6aeb04563c26e1cd4901ea591dcf8b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\OSKAR\.android\build-cache\c995db15bab525b997626ce724b9e56aea5310e3\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\OSKAR\.android\build-cache\0a9a55b33041eff9cb4b671d5f4d350d6bb725e2\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] C:\Users\OSKAR\.android\build-cache\2d0c7b3b06e0945c1f2fd938b94d70e4e7551d0d\output\AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\OSKAR\.android\build-cache\aab4cdf318102d3c43a9fcb29e323bd0ea8ccef8\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] C:\Users\OSKAR\.android\build-cache\1e91657129bb6f2db0bd00e5f6f8444063177401\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] C:\Users\OSKAR\.android\build-cache\e93a1fb5b2a5410d9a68466bbfeaba6b75350824\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] C:\Users\OSKAR\.android\build-cache\8613c4bc84ac39b77173726f98c361416a903a50\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.4] C:\Users\OSKAR\.android\build-cache\b91c37574c6809e0f27f54e95bb98d74506c899c\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] C:\Users\OSKAR\.android\build-cache\2e5bb52aa1471325369e1ebfb38c8bfbc74dbae0\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\OSKAR\.android\build-cache\79d495cec6561fae2b38cd796b5fd9ce2ba3d41e\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\OSKAR\.android\build-cache\15bda9e130461d416ced48ad23b2c307c58e0209\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] C:\Users\OSKAR\.android\build-cache\0c3712924ad3206731405422112175a9ac8dc053\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\962f6c7007d3e45ccc5a4dcda81a7aef1ab59f0c\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] C:\Users\OSKAR\.android\build-cache\9f3a3d378cb7e5e097a1583a99b2153f9b47db4d\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\OSKAR\.android\build-cache\7461d2e75509e828497fb39811e3af12176685a1\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\OSKAR\.android\build-cache\69bfded58c0ec9dd9cc760635d2ad93184e603b6\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] C:\Users\OSKAR\.android\build-cache\6439cfdd93d19ba58fd2b6604ac541ad1d635c1f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\OSKAR\.android\build-cache\aa5dd397e2dca585415272b4816864b13086f129\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] C:\Users\OSKAR\.android\build-cache\cb2e982c71088c6267412119a31a6949a46f5bef\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\OSKAR\.android\build-cache\65a4c0d842c0ccc17b02d8285ced9bf82f5f18d8\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] C:\Users\OSKAR\.android\build-cache\d3fad26c7b0356794aabee8f2a8fbaeb9f2505cc\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\OSKAR\.android\build-cache\8a475e4422a3401f8a648f08ebddab2494ecabc2\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\OSKAR\.android\build-cache\4e80685ec6939a6f092bd28fc6ad8b9e123e620a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\OSKAR\.android\build-cache\cf5e79c1246a74fe4e7a4fd4bd8f2b871d88816e\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\OSKAR\.android\build-cache\7186c51d4d7c2baedc539ac8b0181f506ed6dafd\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\OSKAR\.android\build-cache\2057544aecceba659d420663bc8365aebcd6e238\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\OSKAR\.android\build-cache\fc707d087ac658395ebb2ba5f25cc0b07a0047c5\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\OSKAR\.android\build-cache\5fa62b9c8d67324cfc20177b3beaa6309a7ef1a8\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] C:\Users\OSKAR\.android\build-cache\75ad049a5d4259547e5fca9f8a0ca30c72ce4de0\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\OSKAR\.android\build-cache\63eb7c948959a0dc4c4b938992b5622ca19b5c3b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\OSKAR\.android\build-cache\aa08695389dbdae2aee2e1a7388e702cb34e3b6d\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\OSKAR\.android\build-cache\55af474bb31271051fb9d0b6a43260d7b9e05021\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\OSKAR\.android\build-cache\ca282c969b83fe33ee093faa9bf14e7573d2b8e0\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\OSKAR\.android\build-cache\674638016fd96cc7942cbee0fb407c74f7f593fc\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\OSKAR\.android\build-cache\95423275bfcf096d9df392c55bf536fa8f787355\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\f05b233bca612bb5796e0769af663e54e6cc994c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\8ac512005f5cb62cd2f932b10b8f4aa26bce7c1e\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\a89d801b63e1a965542d7fe417cde35825561bac\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\853726937a9091559ada441d9bfc2b148986848d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\217f8fbf4baa76e8bcf49f653fd6e513dadecaf7\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\eddf0953d8e873cb5df3ee84e1a16b874d8edd23\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\b3b9c1f85419ead6c8d9980831a2b51c90bf92d5\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\OSKAR\Desktop\Android\EulerAttendance\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\b3b9c1f85419ead6c8d9980831a2b51c90bf92d5\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\347f3190e442b75098c9a51f9abd00be665dc838\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\efc3b210bad52ff6d608d0a9fdf1c0f2237bcd36\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\d1d868c7b45964e56335e4f04b7ab24f9114989e\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\82e573c9d702df81112240345776b63437fe7d3e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\264133f174eeabcf4b279af35c8d1ce2bc3ef0e1\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\b79c4e1497c2f48068be9179c790c7b0b523fe65\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\f05b233bca612bb5796e0769af663e54e6cc994c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\8ac512005f5cb62cd2f932b10b8f4aa26bce7c1e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\a89d801b63e1a965542d7fe417cde35825561bac\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\853726937a9091559ada441d9bfc2b148986848d\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\217f8fbf4baa76e8bcf49f653fd6e513dadecaf7\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\eddf0953d8e873cb5df3ee84e1a16b874d8edd23\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\b3b9c1f85419ead6c8d9980831a2b51c90bf92d5\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\OSKAR\.android\build-cache\b3b9c1f85419ead6c8d9980831a2b51c90bf92d5\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.CAMERA
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:25:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:33:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:42:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:46:9-52:63
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:48:13-45
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:49:13-56
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\OSKAR\.android\build-cache\c421adb391aabe4a5b8c45138ad71694bd2c96b9\output\AndroidManifest.xml:47:13-74
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\OSKAR\.android\build-cache\e6dbe8fbc3f4d8e86c1f264018012cdad0fbf551\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\cdbc956fce2153988eddebd71bcd1143c4df887e\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\OSKAR\.android\build-cache\b322fc2674098a9277849683d047a991088ca6d5\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\OSKAR\.android\build-cache\f3f17deffd9850ad24bac1b6603b36635c3d0d22\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\OSKAR\.android\build-cache\15bda9e130461d416ced48ad23b2c307c58e0209\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\962f6c7007d3e45ccc5a4dcda81a7aef1ab59f0c\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\OSKAR\.android\build-cache\8a475e4422a3401f8a648f08ebddab2494ecabc2\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\OSKAR\.android\build-cache\4e80685ec6939a6f092bd28fc6ad8b9e123e620a\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\OSKAR\.android\build-cache\2057544aecceba659d420663bc8365aebcd6e238\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\OSKAR\.android\build-cache\aa08695389dbdae2aee2e1a7388e702cb34e3b6d\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\OSKAR\.android\build-cache\e6dbe8fbc3f4d8e86c1f264018012cdad0fbf551\output\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\OSKAR\.android\build-cache\e6dbe8fbc3f4d8e86c1f264018012cdad0fbf551\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\cdbc956fce2153988eddebd71bcd1143c4df887e\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\OSKAR\.android\build-cache\69bfded58c0ec9dd9cc760635d2ad93184e603b6\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\OSKAR\.android\build-cache\8a475e4422a3401f8a648f08ebddab2494ecabc2\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\OSKAR\.android\build-cache\4e80685ec6939a6f092bd28fc6ad8b9e123e620a\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\OSKAR\.android\build-cache\2057544aecceba659d420663bc8365aebcd6e238\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\OSKAR\.android\build-cache\aa08695389dbdae2aee2e1a7388e702cb34e3b6d\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\OSKAR\.android\build-cache\e6dbe8fbc3f4d8e86c1f264018012cdad0fbf551\output\AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\OSKAR\.android\build-cache\e6dbe8fbc3f4d8e86c1f264018012cdad0fbf551\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\OSKAR\.android\build-cache\e6dbe8fbc3f4d8e86c1f264018012cdad0fbf551\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\OSKAR\.android\build-cache\e6dbe8fbc3f4d8e86c1f264018012cdad0fbf551\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\OSKAR\.android\build-cache\e6dbe8fbc3f4d8e86c1f264018012cdad0fbf551\output\AndroidManifest.xml:25:19-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\cdbc956fce2153988eddebd71bcd1143c4df887e\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\OSKAR\.android\build-cache\4e80685ec6939a6f092bd28fc6ad8b9e123e620a\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\OSKAR\.android\build-cache\2057544aecceba659d420663bc8365aebcd6e238\output\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\cdbc956fce2153988eddebd71bcd1143c4df887e\output\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\OSKAR\.android\build-cache\b322fc2674098a9277849683d047a991088ca6d5\output\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\OSKAR\.android\build-cache\b322fc2674098a9277849683d047a991088ca6d5\output\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\OSKAR\.android\build-cache\b322fc2674098a9277849683d047a991088ca6d5\output\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\OSKAR\.android\build-cache\b322fc2674098a9277849683d047a991088ca6d5\output\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\OSKAR\.android\build-cache\b322fc2674098a9277849683d047a991088ca6d5\output\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\OSKAR\.android\build-cache\b322fc2674098a9277849683d047a991088ca6d5\output\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\OSKAR\.android\build-cache\b322fc2674098a9277849683d047a991088ca6d5\output\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\OSKAR\.android\build-cache\b322fc2674098a9277849683d047a991088ca6d5\output\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\OSKAR\.android\build-cache\b322fc2674098a9277849683d047a991088ca6d5\output\AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\OSKAR\.android\build-cache\e8747c95b20c557dcd180c82c5d6cf44a08a110e\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\OSKAR\.android\build-cache\e8747c95b20c557dcd180c82c5d6cf44a08a110e\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\OSKAR\.android\build-cache\e8747c95b20c557dcd180c82c5d6cf44a08a110e\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\OSKAR\.android\build-cache\e8747c95b20c557dcd180c82c5d6cf44a08a110e\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\OSKAR\.android\build-cache\e8747c95b20c557dcd180c82c5d6cf44a08a110e\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\OSKAR\.android\build-cache\e8747c95b20c557dcd180c82c5d6cf44a08a110e\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\OSKAR\.android\build-cache\e8747c95b20c557dcd180c82c5d6cf44a08a110e\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\OSKAR\.android\build-cache\e8747c95b20c557dcd180c82c5d6cf44a08a110e\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\OSKAR\.android\build-cache\e8747c95b20c557dcd180c82c5d6cf44a08a110e\output\AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\OSKAR\.android\build-cache\94e1e86018497abd3b44657b82b05ca74c9c85fd\output\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\OSKAR\.android\build-cache\94e1e86018497abd3b44657b82b05ca74c9c85fd\output\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\OSKAR\.android\build-cache\94e1e86018497abd3b44657b82b05ca74c9c85fd\output\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\OSKAR\.android\build-cache\94e1e86018497abd3b44657b82b05ca74c9c85fd\output\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\OSKAR\.android\build-cache\94e1e86018497abd3b44657b82b05ca74c9c85fd\output\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\OSKAR\.android\build-cache\94e1e86018497abd3b44657b82b05ca74c9c85fd\output\AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\OSKAR\.android\build-cache\aab4cdf318102d3c43a9fcb29e323bd0ea8ccef8\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\OSKAR\.android\build-cache\aab4cdf318102d3c43a9fcb29e323bd0ea8ccef8\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\OSKAR\.android\build-cache\aab4cdf318102d3c43a9fcb29e323bd0ea8ccef8\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\OSKAR\.android\build-cache\aab4cdf318102d3c43a9fcb29e323bd0ea8ccef8\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\OSKAR\.android\build-cache\aab4cdf318102d3c43a9fcb29e323bd0ea8ccef8\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\OSKAR\.android\build-cache\aab4cdf318102d3c43a9fcb29e323bd0ea8ccef8\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\OSKAR\.android\build-cache\aab4cdf318102d3c43a9fcb29e323bd0ea8ccef8\output\AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\OSKAR\.android\build-cache\15bda9e130461d416ced48ad23b2c307c58e0209\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\962f6c7007d3e45ccc5a4dcda81a7aef1ab59f0c\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\OSKAR\.android\build-cache\15bda9e130461d416ced48ad23b2c307c58e0209\output\AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\OSKAR\.android\build-cache\8a475e4422a3401f8a648f08ebddab2494ecabc2\output\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\OSKAR\.android\build-cache\8a475e4422a3401f8a648f08ebddab2494ecabc2\output\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\OSKAR\.android\build-cache\8a475e4422a3401f8a648f08ebddab2494ecabc2\output\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\OSKAR\.android\build-cache\8a475e4422a3401f8a648f08ebddab2494ecabc2\output\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\OSKAR\.android\build-cache\8a475e4422a3401f8a648f08ebddab2494ecabc2\output\AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\OSKAR\.android\build-cache\8a475e4422a3401f8a648f08ebddab2494ecabc2\output\AndroidManifest.xml:25:94-117
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\OSKAR\.android\build-cache\8a475e4422a3401f8a648f08ebddab2494ecabc2\output\AndroidManifest.xml:25:118-142
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\OSKAR\.android\build-cache\8a475e4422a3401f8a648f08ebddab2494ecabc2\output\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\OSKAR\.android\build-cache\8a475e4422a3401f8a648f08ebddab2494ecabc2\output\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\OSKAR\.android\build-cache\8a475e4422a3401f8a648f08ebddab2494ecabc2\output\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\OSKAR\.android\build-cache\8a475e4422a3401f8a648f08ebddab2494ecabc2\output\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\OSKAR\.android\build-cache\8a475e4422a3401f8a648f08ebddab2494ecabc2\output\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\OSKAR\.android\build-cache\8a475e4422a3401f8a648f08ebddab2494ecabc2\output\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\OSKAR\.android\build-cache\8a475e4422a3401f8a648f08ebddab2494ecabc2\output\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\OSKAR\.android\build-cache\8a475e4422a3401f8a648f08ebddab2494ecabc2\output\AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\OSKAR\.android\build-cache\4e80685ec6939a6f092bd28fc6ad8b9e123e620a\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\OSKAR\.android\build-cache\4e80685ec6939a6f092bd28fc6ad8b9e123e620a\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\OSKAR\.android\build-cache\8620f747efb5344ba1e77e49f81c367acbe5aade\output\AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\OSKAR\.android\build-cache\82abd729392915480c03dd4fcde27bdd2c8c04ed\output\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\OSKAR\.android\build-cache\cf5e79c1246a74fe4e7a4fd4bd8f2b871d88816e\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\OSKAR\.android\build-cache\cf5e79c1246a74fe4e7a4fd4bd8f2b871d88816e\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\OSKAR\.android\build-cache\cf5e79c1246a74fe4e7a4fd4bd8f2b871d88816e\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\OSKAR\.android\build-cache\cf5e79c1246a74fe4e7a4fd4bd8f2b871d88816e\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\OSKAR\.android\build-cache\cf5e79c1246a74fe4e7a4fd4bd8f2b871d88816e\output\AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\OSKAR\.android\build-cache\aa08695389dbdae2aee2e1a7388e702cb34e3b6d\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\OSKAR\.android\build-cache\aa08695389dbdae2aee2e1a7388e702cb34e3b6d\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\OSKAR\.android\build-cache\aa08695389dbdae2aee2e1a7388e702cb34e3b6d\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\OSKAR\.android\build-cache\ca282c969b83fe33ee093faa9bf14e7573d2b8e0\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\OSKAR\.android\build-cache\ca282c969b83fe33ee093faa9bf14e7573d2b8e0\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\OSKAR\.android\build-cache\ca282c969b83fe33ee093faa9bf14e7573d2b8e0\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\OSKAR\.android\build-cache\ca282c969b83fe33ee093faa9bf14e7573d2b8e0\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\OSKAR\.android\build-cache\95423275bfcf096d9df392c55bf536fa8f787355\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\OSKAR\.android\build-cache\95423275bfcf096d9df392c55bf536fa8f787355\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\OSKAR\.android\build-cache\95423275bfcf096d9df392c55bf536fa8f787355\output\AndroidManifest.xml:20:20-65

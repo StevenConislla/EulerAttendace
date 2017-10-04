@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\OSKAR\\Desktop\\Android\\EulerAttendance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\OSKAR\\Desktop\\Android\\EulerAttendance\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\OSKAR\\Desktop\\Android\\EulerAttendance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_euler.png",
+        "source": "C:\\Users\\OSKAR\\Desktop\\Android\\EulerAttendance\\app\\src\\main\\res\\mipmap-mdpi\\ic_euler.png"
+    },
+    {
+        "merged": "C:\\Users\\OSKAR\\Desktop\\Android\\EulerAttendance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\OSKAR\\Desktop\\Android\\EulerAttendance\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]
